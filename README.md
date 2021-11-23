@@ -1,5 +1,5 @@
 # ant_cube
-ant cube problem from <redacted company> interview
+ant cube problem from \<redacted company\> interview
 
 say you have an ant on a cube
 
